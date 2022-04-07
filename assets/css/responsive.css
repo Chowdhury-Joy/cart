@@ -3,85 +3,13 @@
 *******************************/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-	.main-1 p{
-		font-size: 16px;
-		margin-top: 15px;
-		padding:15px;
-		color:gray;
-		font-weight: 600;
-	}
-	.part1{
-
-		width:100%;
-		color:gray;
-		border: 1px solid black;
-	}
-	.main-2-lower{
-		background-color: rgb(220, 216, 216);
-		height: 633px;
-		width:100%;
-	}
-	.cal{
-		
-		margin-top: 10px;
-	    width:100%;
 	
-	   
-		
-	 }
-	 .button {
-		font-family: 'Orbitron', sans-serif;
-		background-color:gray;
-		color: white;
-		border: 0.3px solid rgb(210, 196, 196) ;
-		width:90px;
-		
-		height: 60px;
-		
-	   }
 }
 
 
 @media only screen and (max-width: 767px) {
 	
 
-	.main-1 p{
-		font-size: 16px;
-		margin-top: 15px;
-		padding:15px;
-		color:gray;
-		font-weight: 600;
-	}
-	.part1{
-
-		width:100%;
-		color:gray;
-		border: 1px solid black;
-	}
-	.main-2-lower{
-		background-color: rgb(220, 216, 216);
-		height: 633px;
-		width:100%;
-	}
-	.cal{
-		
-		margin-top: 10px;
-	    width:100%;
-	
-	   
-		
-	 }
-	 .button {
-		font-family: 'Orbitron', sans-serif;
-		background-color:gray;
-		color: white;
-		border: 0.3px solid rgb(210, 196, 196) ;
-		width:90px;
-		
-		height: 60px;
-		
-	   }
 }
 
 
-}

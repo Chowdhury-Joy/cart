@@ -1,0 +1,82 @@
+
+/*======Pricing Section Start=====*/
+
+.pricing-2{
+	background-color:#ffffff;
+     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4); 
+	 padding-bottom: 10px;
+}
+
+.pricing-2 h4{
+	padding-top:30px;
+	margin-top:30px;
+	font-size:30px;
+	font-weight:700;
+}
+
+.pricing-2 h2{
+	padding-top:15px;
+	padding-bottom: 10px;
+	font-weight:600;
+	
+}
+.pricing-2 p{
+	line-height:2;
+}
+
+.pricing-2 button{
+	background-color:#FF7145;
+	color:white;
+	width:150px;
+	height:40px;
+	border:none;
+	font-weight:500;
+	padding-bottom: 10px;
+	
+
+}
+.message{
+	background-color:#FF7145;
+}
+.head2sell{
+	
+	
+	background-color:#4199d3;
+}
+ .icon i.fa{
+	position: absolute;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    border: 1px solid #08090a;
+    border-radius: 50%;
+    font-size: 12px;
+    font-weight: 600;
+    color: #ffffff;
+    
+    background-color: #d81730;
+	top: -23px;
+    left: 45%;
+
+    
+   
+    
+}
+
+
+	
+.head3sell{
+	position:relative;
+	font-size: 13px;
+	background-color: #d81730;
+	color: #ffffff;
+	margin-bottom: -20px;
+	padding: 5px 0;
+	text-transform: uppercase;
+	font-weight: 500;
+
+	
+}
+	
+/*======Pricing Section end=====*/
+

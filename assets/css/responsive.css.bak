@@ -1,0 +1,38 @@
+/*******************************
+	All Responsive Code
+*******************************/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	.pricemenu-1{
+		margin-bottom: 10px;
+
+	}
+}
+
+
+@media only screen and (max-width: 767px) {
+	.pricemenu-1,.pricemenu-2,.pricemenu-3,.pricemenu-4{
+		margin-bottom: 50px;
+	}
+
+	.head3sell{
+		padding: 10px 0;
+	}
+
+	.icon i.fa{
+		position: absolute;
+		height: 30px;
+		width: 30px;
+		line-height: 30px;
+		border: 1px solid #08090a;
+		border-radius: 50%;
+		font-size: 12px;
+		font-weight: 600;
+		color: #ffffff;
+		
+		background-color: #d81730;
+		top: -23px;
+		left: 46%;
+}
+
+}

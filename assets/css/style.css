@@ -1,0 +1,108 @@
+.main-1{
+    background-color: #f2eedf;
+    height:820px;
+}
+.main-1 p{
+    font-size: 19px;
+    margin-top: 15px;
+    padding:15px;
+    color:gray;
+    font-weight: 600;
+}
+
+.main-2{
+    background-color: whitesmoke;
+    height:820px;
+   border-left: 2px solid gray;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 8px;
+}
+.main-2-upper{
+    height:500px;
+    border-bottom:1px solid green;
+}
+.icon  i.fa{
+   
+
+    font-size: 60px;
+    margin-top: 50px;
+    color: rgb(224, 207, 207);
+}
+.icon p{
+    font-size: 19px;
+    margin-top: 5px;
+    padding:15px;
+    color:rgb(225, 214, 214);
+    font-weight: 600;
+}
+.main-2-lower{
+    background-color: rgb(220, 216, 216);
+    height: 320px;
+    width:100%;
+}
+.part1{
+
+    width:265px;
+    color:gray;
+    border: 1px solid black;
+}
+.part1:hover{
+
+
+    color:gray;
+    border: 1px solid black;
+    
+}
+.card-1 i.fa{
+    margin-right: 7px;
+    font-size: 20px;
+
+}
+
+.cal{
+   margin-top: 10px;
+   width:280px;
+  
+   
+}
+
+
+.button {
+    font-family: 'Orbitron', sans-serif;
+    background-color:gray;
+    color: white;
+    border: 0.3px solid rgb(210, 196, 196) ;
+    width: 67px;
+    
+    height: 60px;
+    
+   }
+
+   .user{
+    margin-top: 10px;
+    width:272px;
+    height:90px;
+    color:gray;
+    border: 1px solid black;
+}
+.payment{
+    
+    width:272px;
+    height:150px;
+    color:gray;
+    border: 1px solid black;
+}
+.payment i.fa{
+    height:50px;
+    width:50px;
+    line-height: 50px;
+    border-radius: 37px;
+    background-color: black;
+    font-size: 50px;
+    color: white;
+   
+    color: rgb(100, 41, 41);
+}
+.btns{
+    background-color: green;
+    text-align: center;
+}

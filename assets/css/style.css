@@ -1,16 +1,17 @@
-* body{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-    /* max-width: 100vw; */
+nav{
+    background: #88597b;
+}
+.nav-link ,.cod{
+    color: white !important;
+}
 
-}
-.header{
-    width:100%;
-}
+
+
 .main-1{
     background-color: #f2eedf;
     height:820px;
+    width:100%;
+   
 }
 .main-1 p{
     font-size: 19px;
@@ -23,7 +24,6 @@
 .main-2{
     background-color: whitesmoke;
     height:820px;
-    width: 100%;
    border-left: 2px solid gray;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 8px;
 }
@@ -52,7 +52,7 @@
 }
 .part1{
 
-    width:235px;
+    width:100%;
     color:gray;
     border: 1px solid black;
 }
@@ -71,7 +71,7 @@
 
 .cal{
    margin-top: 10px;
-   width:280px;
+   width:100%;
   
    
 }
@@ -82,7 +82,7 @@
     background-color:gray;
     color: white;
     border: 0.3px solid rgb(210, 196, 196) ;
-    width: 67px;
+    width:55px;
     
     height: 60px;
     
@@ -90,14 +90,14 @@
 
    .user{
     margin-top: 10px;
-    width:272px;
+    width:100%;
     height:90px;
     color:gray;
     border: 1px solid black;
 }
 .payment{
     
-    width:272px;
+    width:100%;
     height:150px;
     color:gray;
     border: 1px solid black;
@@ -116,4 +116,7 @@
 .btns{
     background-color: green;
     text-align: center;
+}
+.table{
+   
 }

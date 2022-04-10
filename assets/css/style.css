@@ -5,7 +5,21 @@ nav{
     color: white !important;
 }
 
-
+.order{
+    width:100%;
+    background-color:#D3D3D3; 
+    border-bottom: 3px solid green;      
+}
+.button-2{
+    background-color:#D3D3D3; 
+      
+    border: 1px solid gray;      
+   
+}
+.images{
+    background-color: white;
+    margin: 5px;
+}
 
 .main-1{
     background-color: #f2eedf;
@@ -117,6 +131,33 @@ nav{
     background-color: green;
     text-align: center;
 }
-.table{
-   
+/*==============Prodect INformation===============*/
+
+a.btn{
+    padding: 10px 40px;
+}
+
+.line{
+    border-bottom: 1px solid black;
+}
+
+.pad{
+    padding-right: 2px;
+}
+.sections{
+	 background-color:#D3D3D3; 
+	 
+}
+.close-btn{
+	background-color:#D3D3D3; 
+}
+a{
+    text-decoration: none;
+    color:gray;
+    margin-left: 5px;
+}
+a:hover{
+    text-decoration: none;
+    color: gray;
+    margin-left: 5px;
 }

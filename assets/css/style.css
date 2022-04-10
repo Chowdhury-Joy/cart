@@ -1,3 +1,7 @@
+* body{
+   
+    box-sizing: border-box;
+}
 nav{
     background: #88597b;
 }
@@ -161,3 +165,25 @@ a:hover{
     color: gray;
     margin-left: 5px;
 }
+.payment-info{
+    background-color:#D3D3D3;   
+}
+.payment-header{
+    background-color:#D3D3D3;  
+    border: 1px solid rgb(199, 188, 188); 
+}
+.invoice-POS {
+    
+    background: #FFF;
+    width:100%;
+  }
+  .btn-print{
+      background-color: #DCDCDC;
+      border: 0.5px gray ;
+  }
+  .button-out{
+    border: 0.3px solid gray ;  
+  }
+ .gap-2 h4{
+     font-weight: 600;
+ }

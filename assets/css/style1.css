@@ -1,0 +1,66 @@
+/*===============payment info==================*/
+.cal{
+    margin-top: 10px;
+    
+   
+    
+ }
+ .button {
+    font-family: 'Orbitron', sans-serif;
+    background-color:#e2e2e2;
+    border: 0.3px solid rgb(210, 196, 196) ;
+    width: 85px;
+    height: 70px;
+    
+   } 
+
+   .button:hover{
+     background: white;
+   }
+
+   .btn-group1 .button1 {
+      border: 1px solid #808082;
+      background: #e2e2e2;
+      color: black;
+      padding: 18px 52px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 16px;
+      cursor: pointer;
+      width: 100%;
+      display: block;
+    }
+
+    .btn-group1 .button1:not(:last-child) {
+      border-bottom: none; /* Prevent double borders */
+    }
+    .btn-group1 .button1:hover{
+      background: white;
+    }
+
+    /*
+   .row{
+      border: 0.3px solid rgb(110, 104, 104);
+   }
+   */
+   .btn-group2 .button2 {
+    border: 1px solid #808082;
+    background: #e2e2e2;
+    padding: 15px 18px;
+    
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+  }
+
+  .btn-group2 .button2:hover{
+    background: white;
+  }
+
+   .i-bod{
+     border: 1px solid black;
+     border-radius: 50%;
+     padding: 8px 14px;
+   }

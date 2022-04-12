@@ -165,6 +165,7 @@ a:hover{
     color: gray;
     margin-left: 5px;
 }
+/* ==================validate Info====================*/
 .payment-info{
     background-color:#D3D3D3;   
 }
@@ -187,3 +188,5 @@ a:hover{
  .gap-2 h4{
      font-weight: 600;
  }
+
+ 
